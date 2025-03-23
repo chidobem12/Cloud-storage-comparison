@@ -1,4 +1,5 @@
 # Cloud-storage-comparison
+video link: https://youtu.be/DsiP6bh5lv4?si=MrMLxL9UyFpmkQep
 Google Cloud Storage (GCS), Amazon Web Services (AWS), and Microsoft Azure are three of the most prominent cloud service providers, each offering a comprehensive suite of cloud computing services. While they share many similarities, they also have distinct features, use cases, and strengths that make them suitable for different types of workloads and industries. 
 Key Features
 SCALABILITY
